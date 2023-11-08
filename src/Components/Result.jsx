@@ -26,9 +26,9 @@ const Result = () =>{
              srcDoc={src}
              title="Output"
              sandbox='allow-scripts'
-             frameBorder={0}
+            //  frameBorder={0}
              width="100%"
-             height="100%"
+             height="270vh"
             />
         </Container>
     )
